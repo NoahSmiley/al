@@ -1,0 +1,33 @@
+﻿body {
+    background: #0f0f0f;
+    font-family: "Source Sans Pro";
+    position: relative;
+    min-height: 97.5vh;
+    margin-left: 4.5%;
+    color: white;
+}
+
+button {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    color: #FFFFFF38;
+    font-size: 16px;
+}
+
+button:hover {
+    color: rgba(255, 255, 255, 0.44);
+}
+
+footer {
+    position: absolute;
+    font-size: 10px;
+    bottom: 0;
+    height: 2.5rem;
+    text-align: center;
+    font-weight: 1;
+    color: rgba(255, 255, 255, 0.22);
+}
