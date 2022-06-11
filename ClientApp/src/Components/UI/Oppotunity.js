@@ -2,6 +2,8 @@
     return (
         <>
             <h1>OF WOLF AND MEN</h1>
+            <p>Hello</p>
+            <p>Riley</p>
             <div
                 style={{float: "left", marginLeft: "25%", marginTop: "7.5%", fontWeight: "lighter"}}>
                 <h3  style={{marginTop: "7.5%"}}> Developer Roles:</h3>
