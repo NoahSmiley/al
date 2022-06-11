@@ -39,33 +39,6 @@
           
                 
               {/*  //END OF JOB LISTING */}
-                <div style={{lineHeight:"15%"}}>
-                    <h4 style={{color: "#FFFFFFAD"}}> Entry Level Front-End Software Engineer</h4>
-                    <p>Experience Desired:
-                        <br/>
-                    </p>
-                    <ol>
-                        <ol><p>6-12 Months of React.JS Experience</p></ol>
-                        <ol><p>6-12 Months of GraphQL Experience</p></ol>
-                    </ol>
-
-                    <p>Job Description:
-                        <br/>
-                    </p>
-                    <ol>
-                        <ol><p>6-12 Months of React.JS Experience</p></ol>
-                    </ol>
-                    <p>Compensation:
-                        <br/>
-                    </p>
-                    <ol>
-                        <ol><p> 1 $AL Grid/ Per Quarter (Current USD Value: $21,674)</p></ol>
-                    </ol>
-                </div>
-                <br/>
-                <button  style={{color: "#FFFFFFAD"}}>Apply</button>
-                <hr/>
-                <br/>
             </div>
         </>
     );
